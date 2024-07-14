@@ -118,13 +118,12 @@
 
 	<distributionManagement>
 	<repository>
-	    <id>maven-releases</id>
-	    <url>http://3.141.37.92:8080/repository/maven-releases/</url>
-	<repository>
-	<snapshotRegistory>
-	    <id>maven-snapshot</id>
-	    <url>http://3.141.37.92:8080/repository/maven-snapshots/</url>
-	</snapshotRepository>
-    </distrbutionmanagement>
+	    
+	    
+	
+	   
+	    
+	
+    
 
 </project>
